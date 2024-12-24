@@ -1,6 +1,8 @@
 # React + Vite + TailwindCSS Template
 
 This template provides a minimal setup for building a React application using Vite. 
+
+Live: https://sell-courses-project.vercel.app/
 ## Features
 
 * **Vite:** Ultra-fast development and build tooling.
